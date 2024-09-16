@@ -21,7 +21,6 @@ This browser extension adds a "Save Code" button to the Programiz JavaScript com
 2. Write your code in the editor.
 3. Click the “Save Code” button to save your code to a .js file.
 ## File Structure
-    ```bash
     browser ext/
     ├── icons/
     │   ├── icon16.png
