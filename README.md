@@ -1,4 +1,4 @@
-# Save Code Button for Programiz JavaScript Compiler
+# Save Code Browser Extension for Programiz JavaScript Compiler
 
 ## Description
 This browser extension adds a "Save Code" button to the Programiz JavaScript compiler. With this extension, users can easily save their code to a `.js` file, enhancing their coding experience by providing a quick and convenient way to save their work.
