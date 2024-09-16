@@ -10,7 +10,7 @@ This browser extension adds a "Save Code" button to the Programiz JavaScript com
 ## Installation
 1. Clone this repository to your local machine.
    ```bash
-   git clone <https://github.com/diceflip/Save-Code-Browser-Extension-for-Programiz-JavaScript-Compiler>
+   git clone https://github.com/diceflip/Save-Code-Browser-Extension-for-Programiz-JavaScript-Compiler
 2. Open your browser and go to the extensions page.
 - For Chrome: chrome://extensions/
 - For Edge: edge://extensions/
@@ -21,19 +21,18 @@ This browser extension adds a "Save Code" button to the Programiz JavaScript com
 2. Write your code in the editor.
 3. Click the “Save Code” button to save your code to a .js file.
 ## File Structure
-```bash
-browser ext/
-├── icons/
-│   ├── icon16.png
-│   ├── icon32.png
-│   ├── icon48.png
-│   ├── icon128.png
-├── JS/
-│   └── content.js
-├── background.js
-├── manifest.json
-└── popup.html
-
+    ```bash
+    browser ext/
+    ├── icons/
+    │   ├── icon16.png
+    │   ├── icon32.png
+    │   ├── icon48.png
+    │   ├── icon128.png
+    ├── JS/
+    │   └── content.js
+    ├── background.js
+    ├── manifest.json
+    └── popup.html 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 ## License
